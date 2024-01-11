@@ -1,0 +1,309 @@
+@media(max-width:991px){
+	.hamburger{
+		left: 14px;
+	}
+	header .logo{
+		margin-left: 60px !important;
+	}
+	.banner h1 {
+    	font-size: 50px;
+	}
+	.span{
+		margin-bottom: 20px;
+		display: block;
+	}
+	.trust-logo {
+    	height: 207px;
+	}
+	.trust-wrapper .col-lg-3{
+		margin: 0;
+	}
+	.number-count p {
+    	font-size: 60px;
+	}
+	.company-wrapper .row .col-lg-4:nth-child(2) .number-count, 
+	.company-wrapper .row .col-lg-4:last-child .number-count {
+    	padding-left: 0;
+	}
+	.h4_2 {
+	    font-size: 35px;
+	}
+	footer p br{
+		display: none;
+	}
+	.reach_us {
+	    padding-left: 0;
+	}
+	.phonenumber, .emailwidth {
+	    width: 50%;
+	}
+	.numbers {
+    	font-size: 22px;
+	}
+	.privacy_links a {
+	    font-size: 13px;
+	}
+	.ptb-50 {
+	    padding-top: 20px;
+	    padding-bottom: 10px;
+	}
+	.pad80 {
+	    padding: 60px 0;
+	}
+	.loop_events {
+    padding:60px 0 30px;
+}
+.leadership-wrapper{
+	padding-top: 0;
+}
+.carbg {
+    visibility: hidden;
+    opacity: 0;
+    height: 400px;
+}
+#careers_open1, #careers_open2, #careers_open3, #careers_open4, #careers_open5, #careers_open16 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    opacity: 0;
+}
+.hover_effect ul {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 9;
+    bottom: 0;
+}
+
+.hover_effect ul li h2 {
+    transform: translateY(0%);
+    position: inherit;
+}
+.hover_effect ul li h2 {
+    height: 400px;
+    padding: 30px;
+    margin-bottom: 0;
+    font-size: 20px;
+}
+
+
+#careers1 {
+        background:url('../images/television.webp') no-repeat right !important;
+        background-size:cover !important;
+    }
+    #careers2 {
+        background:url('../images/radio.webp') no-repeat right !important;
+        background-size:cover !important;
+    }
+    #careers3 {
+        background:url('../images/print.webp') no-repeat right !important;
+        background-size:cover !important;
+    }
+    #careers4 {
+        background:url('../images/outdoor.webp') no-repeat right !important;
+        background-size:cover !important;
+    }
+    #careers5 {
+        background:url('../images/digital.webp') no-repeat right !important;
+        background-size:cover !important;
+    }
+    #careers6 {
+        background:url('../images/event.webp') no-repeat right !important;
+        background-size:cover !important;
+    }
+
+
+.hover_effect ul li{
+	margin: 0 10px;
+}
+
+.career-wrapper{
+	margin-bottom: 0;
+}
+.bg_img {
+    height: 400px;
+}
+
+.career-wrapper .btn-line {
+    position: absolute;
+    bottom: 40px;
+}
+}
+
+
+@media(max-width:767px){
+	.card-event__date.align-items-center.h-100{
+		padding-bottom: 0;
+	}
+	.trust-wrapper .log-partner{
+		margin-top: 30px !important;
+	}
+	.trust-wrapper .col-lg-3{
+		width: 50%;
+	}
+	.trust-logo {
+    height: 190px;
+    padding: 0;
+}
+	.loop_events {
+    padding: 30px 0 30px;
+}
+	header .col-md-6 .text-right{
+		display: none;
+	}
+	.banner .row{
+		flex-direction: column-reverse;
+	}
+	.banner h1 br{
+		display: none;
+	}
+	.banner h1 {
+	    font-size: 45px;
+	    margin-bottom: 19px;
+	}
+	.video{
+		height: auto;
+	}
+	.video video {
+	    height: 400px;
+	    object-fit: cover;
+	}
+	.pad80 {
+	    padding: 40px 0;
+	}
+	.h4 {
+	    color: #160D4C;
+	    font-size: 26px;
+	}
+
+	.number-count {
+    border-bottom: solid 1px #DCDCDC;
+    padding: 0px 0;
+    border-right: none;
+}
+
+.company-wrapper .col-lg-4.col-md-4 {
+    width: 50%;
+}
+
+.company-wrapper .row .col-lg-4:last-child  {
+	width: 100%;
+}
+
+.company-wrapper .row .col-lg-4:last-child .number-count{
+	padding-top: 30px;
+}
+
+.company-wrapper .row {
+	margin-top: 30px !important;
+}
+.number-count .pro {
+    font-size: 16px;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.number-count p {
+    font-size: 40px;
+}
+
+
+.company-wrapper .border-bottom{
+    margin-bottom: 42px !important;
+}
+.leadership-wrapper{
+	padding-top: 0;
+}
+
+.leadership-wrapper .row {
+	margin-top: 30px !important;
+}
+
+.leadership-wrapper .team{
+	margin-bottom: 30px;
+}
+.team p {
+    font-size: 18px;
+}
+.news-blog{
+	padding-top: 0;
+}
+
+.card-event__date {
+    padding-bottom: 20px;
+}
+.card-event__date-day {
+    margin-left: 0;
+}
+
+.lineheight {
+    line-height: 1.2;
+    margin: 0;
+}
+
+.news-blog .card-event__title {
+	padding-top: 20px;
+}
+.card-event__date .btns-line {
+    margin: 0;
+    font-size: 14px;
+}
+
+.reach_us{
+	margin-top: 20px;
+}
+.number-cont .numbers:first-child {
+    border-right: 0;
+}
+.numbers {
+    width: 100%;
+    font-size: 14px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+.number-cont .numbers:last-child {
+    text-align: left;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.numbers span {
+    padding-right: 10px;
+    top: 0;
+}
+.footerlinks li {
+    margin-bottom: 8px;
+    margin-right: 15px;
+}
+.footerlinks li a, .privacy_links a {
+    font-size: 14px;
+}
+.privacy_links {
+    margin-top: 0;
+}
+.privacy_links {
+    float: none;
+}
+.copyright p {
+    font-size: 10px;
+}
+.loop_events:last-child {
+    margin-bottom: 0;
+}
+.loop-mews {
+    margin-top: 30px;
+}
+.news-blog .col-lg-3 > div {
+    justify-content: flex-start !important;
+    margin-top: 10px;
+}
+}
+
+
+@media (max-width: 320px) {
+	footer p, .numbers span, nav.navbar .nav-link {
+    font-size: 14px;
+}
+}
